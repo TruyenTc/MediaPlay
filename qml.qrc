@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>image/icons8-audio-file-64.png</file>
+        <file>image/outline_pause_white_24dp.png</file>
+        <file>image/outline_play_arrow_white_24dp.png</file>
+        <file>image/outline_skip_next_white_24dp.png</file>
+        <file>image/outline_skip_previous_white_24dp.png</file>
+        <file>image/outline_volume_up_white_24dp.png</file>
+        <file>image/outline_volume_off_white_24dp.png</file>
+        <file>image/outline_library_add_white_24dp.png</file>
+        <file>image/outline_repeat_white_24dp.png</file>
+        <file>image/outline_shuffle_white_24dp.png</file>
+        <file>language/EL.qm</file>
+        <file>language/EL.ts</file>
+        <file>language/VN.qm</file>
+        <file>language/VN.ts</file>
+        <file>control/PlayBack.qml</file>
+        <file>image_animation/ImageAnimation.qml</file>
+        <file>slider/SliderTimeOfMusic.qml</file>
+        <file>slider/SliderVolume.qml</file>
+        <file>switch/SwitchRepeat.qml</file>
+        <file>textSongList/TextSongList.qml</file>
+        <file>textSongList/SongPlay.qml</file>
+        <file>textSongList/SongList.qml</file>
+        <file>language/Language.qml</file>
+        <file>component/QImage.qml</file>
+        <file>component/QRectText.qml</file>
+        <file>menu/Menu.qml</file>
+        <file>menu/MenuPlayBack.qml</file>
+        <file>menu/MenuLibraries.qml</file>
+        <file>tabLibraries/TabLibraries.qml</file>
+        <file>component/List.qml</file>
+        <file>listLibraries/ListAlbum.qml</file>
+        <file>listLibraries/ListArtist.qml</file>
+        <file>listLibraries/ListSong.qml</file>
+        <file>listLibraries/ListFavorites.qml</file>
+        <file>image/icons8-heart-64.png</file>
+        <file>image/icons8-heart-50.png</file>
+        <file>component/QRectImage.qml</file>
+        <file>switch/Shuffle.qml</file>
+        <file>menu/About.qml</file>
+        <file>menu/Menutext.qml</file>
+        <file>image/icons8-sort-alpha-up-32.png</file>
+    </qresource>
+</RCC>
